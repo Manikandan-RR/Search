@@ -1,0 +1,11 @@
+
+export function _404Page(){
+
+    return(
+        <>
+        <h2>404 Error</h2>
+        <h3>Page Not Found</h3>
+        
+        </>
+    )
+}
